@@ -1,0 +1,8 @@
+public ipv4 address
+34.218.242.61
+54.213.234.21
+35.85.61.234
+
+public ipv4 DNS
+
+ec2-35-85-61-234.us-west-
